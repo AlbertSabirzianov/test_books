@@ -1,4 +1,6 @@
 venv
 .idea
 src/base.db
-
+src/__pycache__
+src/routers/__pycache__
+src
