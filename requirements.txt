@@ -1,0 +1,5 @@
+SQLAlchemy==2.0.24
+fastapi
+pydantic-settings
+uvicorn
+pydantic[email]
